@@ -1,0 +1,19 @@
+body {
+  background-image: linear-gradient(#F0FFFF, #FFFAFA);
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #17a2b8;
+}
