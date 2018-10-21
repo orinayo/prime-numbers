@@ -12,12 +12,12 @@ Open the index.html file in your browser to interact with the app
 ## Testing
 ```
 npm install
-npm test
+npm test or npm run test-watch
 ```
 
 ## Built With
 JavaScript and HTML5
 
-## Authors
-Oyelade Oluwasegun Orinayo.
+## Author
+Oluwasegun Orinayo Oyelade.
 
